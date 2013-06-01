@@ -1386,7 +1386,7 @@ Covered vias can be set in Masks (Limit).
 <element name="C18" library="SparkFun-Capacitors" package="0603-CAP" value="100nF" x="41.275" y="12.065" smashed="yes">
 <attribute name="NAME" x="40.7035" y="10.6045" size="0.4064" layer="25" font="vector"/>
 </element>
-<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="13.335" y="35.8775"/>
+<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="13.6525" y="36.195" rot="R90"/>
 </elements>
 <signals>
 <signal name="GND">
