@@ -145,7 +145,7 @@
 <text x="33.655" y="4.445" size="1.016" layer="25" rot="R90">P2.0</text>
 <text x="36.195" y="4.445" size="1.016" layer="25" rot="R90">P2.1</text>
 <text x="38.735" y="4.445" size="1.016" layer="25" rot="R90">P2.2</text>
-<text x="41.275" y="4.445" size="1.016" layer="25" rot="R90">GND</text>
+<text x="43.815" y="4.445" size="1.016" layer="25" rot="R90">GND</text>
 <text x="61.595" y="4.445" size="1.016" layer="25" rot="R90">G</text>
 <text x="46.355" y="4.445" size="1.016" layer="25" rot="R90">P2.3</text>
 <text x="48.895" y="4.445" size="1.016" layer="25" rot="R90">P2.4</text>
@@ -178,6 +178,7 @@
 <text x="3.175" y="43.18" size="1.016" layer="25" rot="R90">P0.7</text>
 <text x="63.1825" y="8.89" size="1.778" layer="25" rot="R270">XE166</text>
 <text x="64.77" y="41.275" size="1.778" layer="25" rot="R90">Rev 0.1</text>
+<text x="41.275" y="4.445" size="1.016" layer="25" rot="R90">GND</text>
 </plain>
 <libraries>
 <library name="xe167_lqfp144">
