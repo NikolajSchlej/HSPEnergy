@@ -7,7 +7,7 @@ This project of Embedded Systems Laboratory of HS Regensburg
 aims to work out rules and guidelines for energy-effective coding
 for different uC families.
 
-There is a base board for, where DC-DC, debugger and USB-UART converter are located, 
+There is a base board, where DC-DC, JTAG debugger and USB-UART converter are located, 
 and CPU boards for different microcontrollers.
 
 Documentation will be added when ready.
